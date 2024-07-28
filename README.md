@@ -1,2 +1,18 @@
-# base_maestra_estratificacion
-La aplicación "Estrato BaseMaestra" ha sido diseñada para el Departamento Administrativo de Planeación para facilitar la consulta interna de la información alfanumérica y geográfica perteneciente a la Base Oficial de Estratificación Socioeconómica del Distrito de Cali
+# Base Maestra de Estratificación
+## *Español*
+La aplicación "Estrato BaseMaestra" ha sido diseñada para el Departamento Administrativo de Planeación de Cali para facilitar la consulta interna de la información alfanumérica y geográfica perteneciente a la Base Oficial de Estratificación Socioeconómica del Distrito de Cali.
+
+Si tiene alguna pregunta o desea verificar una imprecisión, se sugiere utilizar otras plataformas de la Alcaldía de Cali, como SAUL, Geovisor IDESC y Geoportal Catastral.
+
+Vídeo explicativo:
+
+Enlace programa:
+
+## *English*
+The "Estrato BaseMaestra" application has been designed for the Administrative Planning Department of Cali to facilitate the internal consultation of alphanumeric and geographic information belonging to the Official Socioeconomic Stratification Database of the District of Cali.
+
+If you have any questions or want to verify an inaccuracy, it is suggested to use other platforms of the Mayor's Office of Cali, such as SAUL, Geovisor IDESC and Geoportal Cadastral.
+
+Explanatory video:
+
+Program link:
